@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 1st of tenth
+<<<<<<< HEAD
 2nd of tenth which should be undone by reverse commit
 3rd of tenth
 =======
 1st of tenth
 >>>>>>> parent of 8eb2f23... 2nd line of tenth which should be undone by reverse commit
+=======
+2nd of tenth which should be undone by reverse commit
+>>>>>>> parent of 7b82fcd... added 3rd of tenth which stays
